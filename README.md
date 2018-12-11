@@ -1,4 +1,4 @@
-# Decentralizing the Stock Exchange using Blockchain
+# Decentralizing the Stock Exchange using Ethereum & Solidity
 
 
 
