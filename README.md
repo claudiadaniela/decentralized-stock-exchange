@@ -1,4 +1,4 @@
-# Decentralizing the Stock Exchange using Ethereum & Solidity
+# Decentralizing the Stock Exchange using Blockchain - Ethereum & Solidity PoC
 
 
 
